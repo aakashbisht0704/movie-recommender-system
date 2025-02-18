@@ -19,8 +19,8 @@ This is a **Content-Based Movie Recommendation System** that suggests similar mo
 ## Installation
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/yourusername/movie-recommender.git
-   cd movie-recommender
+   git clone https://github.com/aakashbisht0704/movie-recommender-system.git
+   cd movie-recommender-system
    ```
 2. **Install Dependencies**
    ```sh
